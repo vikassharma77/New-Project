@@ -1,1 +1,1 @@
-# New-Project
+This project is a React-based weather application that fetches real-time weather data from the OpenWeatherMap API. Users can input their desired location, triggering an API call to retrieve weather information such as temperature, humidity, and wind speed. The application features a clean and intuitive interface, displaying the current weather conditions alongside additional details like feels-like temperature. Utilizing React Query for efficient data management, this application provides users with an informative and responsive weather experience.
